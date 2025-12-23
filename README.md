@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/arnav_singh_1" target="blank"><img src="https://img.shields.io/twitter/follow/arnav_singh_1?logo=twitter&style=for-the-badge" alt="arnav_singh_1" /></a> </p>
 
-- 🔭 I’m currently working on **Fashion Feel**
+- 
 
 - 🌱 I’m currently learning **React , Kotlin, Tensorflow**
 
 - 👯 I’m looking to collaborate on **Ai/Ml project**
 
-- 🤝 I’m looking for help with **Fashion Feel**
+- 🤝 I’m looking for help with **Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arnav112-l](https://github.com/Arnav112-l)
 
