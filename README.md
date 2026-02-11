@@ -27,7 +27,7 @@
 <h3>💻 What I Do</h3>
 
 - ✨ Build clean, responsive and accessible UIs
-- ⚛️ Work primarily with React & modern JavaScript**
+- ⚛️ Work primarily with React & modern JavaScript
 - 🧠 Strong focus on **DSA, OOPs, DBMS, OS, Cloud**
 - 🚀 Learning by building & shipping projects
 
