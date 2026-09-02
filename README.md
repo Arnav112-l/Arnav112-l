@@ -3,12 +3,12 @@
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Arnav112-l&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=code-gamerr&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Arnav112-l&show_icons=true&theme=transparent" height="130"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Arnav112-l&theme=transparent" height="130"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=code-gamerr&show_icons=true&theme=transparent" height="130"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=code-gamerr&theme=transparent" height="130"/>
 </div>
 
 <br>
@@ -58,9 +58,9 @@
 <h3 align="center">📊 Contributions</h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav112-l/Arnav112-l/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav112-l/Arnav112-l/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arnav112-l/Arnav112-l/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code-gamerr/code-gamerr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/code-gamerr/code-gamerr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/code-gamerr/code-gamerr/output/pacman-contribution-graph.svg">
 </picture>
 
 <br>
